@@ -19,7 +19,7 @@
   + tabs
   + swipers
   + accordions
-### Check it out on GitHub Pages => [W-Wave Radio](https://exstu.github.io/w-wave-radio/) :boom:
+### Check it out on GitHub Pages => [Evklid engineering](https://exstu.github.io/Evklid-engineering/) :boom:
 
 ## Preview
 
